@@ -1,229 +1,258 @@
-body
-{
-	margin: 0;
-	padding: 0;
-	color: #555;
-	font: normal 10pt Arial,Helvetica,sans-serif;
-	background: #EFEFEF;
+/* ==========================================================================
+   HTML5 Boilerplate styles - h5bp.com (generated via initializr.com)
+   ========================================================================== */
+
+html,
+button,
+input,
+select,
+textarea {
+    color: #333333;
 }
 
-#page
-{
-	margin-top: 5px;
-	margin-bottom: 5px;
-	background: white;
-	border: 1px solid #C9E0ED;
+body {
+    font-size: 1em;
+    line-height: 1.5;
+    font-size: 13px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
-#header
-{
-	margin: 0;
-	padding: 0;
-	border-top: 3px solid #C9E0ED;
+::-moz-selection {
+    background: #b3d4fc;
+    text-shadow: none;
 }
 
-#content
-{
-    padding: 20px;
+::selection {
+    background: #b3d4fc;
+    text-shadow: none;
 }
 
-#sidebar
-{
-	padding: 20px 20px 20px 0;
+hr {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid #ccc;
+    margin: 1em 0;
+    padding: 0;
 }
 
-#footer
-{
-	padding: 10px;
-	margin: 10px 20px;
-	font-size: 0.8em;
-	text-align: center;
-	border-top: 1px solid #C9E0ED;
+img {
+    vertical-align: middle;
 }
 
-#logo
-{
-	padding: 10px 20px;
-	font-size: 200%;
+fieldset {
+    border: 0;
+    margin: 0;
+    padding: 0;
 }
 
-#mainmenu
-{
-	background:white url(bg.gif) repeat-x left top;
+textarea {
+    resize: vertical;
 }
 
-#mainmenu ul
-{
-	padding:6px 20px 5px 20px;
-	margin:0px;
+.chromeframe {
+    margin: 0.2em 0;
+    background: #ccc;
+    color: #000;
+    padding: 0.2em 0;
+    text-align: center;
 }
 
-#mainmenu ul li
-{
-	display: inline;
-}
 
-#mainmenu ul li a
-{
-	color:#ffffff;
-	background-color:transparent;
-	font-size:12px;
-	font-weight:bold;
-	text-decoration:none;
-	padding:5px 8px;
-}
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+h1, h2 { color: #000000; }
+a { color: #003e8e; }
+.button { border: 1px solid #224c70; background: #577aa0; display: inline-block; padding: 0 30px; line-height: 48px; color: #fff; text-shadow: 0 -1px 0 #32587c; font-size: 18px; text-align: center; border-radius: 2px; text-decoration: none; }
+.button.green { background: #78b562; border: 1px solid #5d9752; text-shadow: 0 -1px 0 #5b944f; }
+#wrapper { width: 940px; margin: 0 auto; }
 
-#mainmenu ul li a:hover, #mainmenu ul li.active a
-{
-	color: #6399cd;
-	background-color:#EFF4FA;
-	text-decoration:none;
-}
+#header { border: 1px solid #003255; border-radius: 2px; font-size: 18px; font-family: Trebuchet MS, Helvetica, sans-serif; color: #fff; text-shadow: 0 1px 0 #001939; background: #4a6f94; padding: 0 29px; margin: 10px 0; line-height: 68px; }
+#header a { color: #fff; text-shadow: 0 1px 0 #001939; }
 
-div.flash-error, div.flash-notice, div.flash-success
-{
-	padding:.8em;
-	margin-bottom:1em;
-	border:2px solid #ddd;
-}
+#logo { text-decoration: none; text-transform: uppercase;  }
+#logo img { margin: 0 8px 0 0; }
 
-div.flash-error
-{
-	background:#FBE3E4;
-	color:#8a1f11;
-	border-color:#FBC2C4;
-}
+#menu { display: block; float: right; }
+#menu ul { display: inline; }
+#menu ul li { display: inline; margin: 0 0 0 60px; }
 
-div.flash-notice
-{
-	background:#FFF6BF;
-	color:#514721;
-	border-color:#FFD324;
-}
+/* Слайдер главной страницы */
+#main-slider { margin: 0 0 20px 0; }
+#main-slider img { border-radius: 2px; }
 
-div.flash-success
-{
-	background:#E6EFC2;
-	color:#264409;
-	border-color:#C6D880;
-}
 
-div.flash-error a
-{
-	color:#8a1f11;
-}
+#services-slider { margin: 0 0 20px 0; }
+.service-slide { width: 940px; overflow: hidden; }
+.service-box { float: left; width: 238px; border: 1px solid #d1d1d1; border-radius: 2px; background: #f6f6f6; padding: 30px; margin: 0 0 0 20px; }
+.service-box h2 { text-shadow: 0 1px 0 #fff; margin: 0 0 1em 0; padding: 0 0 0 34px; font-size: 22px; font-weight: normal; }
+.service-box .button { width: 176px; }
+.service-box:first-child { margin: 0; }
 
-div.flash-notice a
-{
-	color:#514721;
-}
+#all-services-button { width: 238px; }
+#all-services-button img { margin: 0 0 0 6px; }
 
-div.flash-success a
-{
-	color:#264409;
-}
+#support-block { float: right; text-align: right; }
+#support-phone { font-size: 24px; }
+.icon-registration { background: url(/images/icons/registration.png) no-repeat 0 50%; }
+.icon-deregistration { background: url(/images/icons/deregistration.png) no-repeat 0 50%; }
+.icon-re-registration { background: url(/images/icons/re-registration.png) no-repeat 0 50%; }
 
-div.form .rememberMe label
-{
-	display: inline;
-}
+#footer { color: #adadad; font-size: 11px; border-top: 1px solid #d9d9d9; padding: 10px 0; text-align: center; margin: 20px 0 0 0; }
 
-div.view
-{
-	padding: 10px;
-	margin: 10px 0;
-	border: 1px solid #C9E0ED;
-}
 
-div.breadcrumbs
-{
-	font-size: 0.9em;
-	padding: 5px 20px;
-}
 
-div.breadcrumbs span
-{
-	font-weight: bold;
-}
 
-div.search-form
-{
-	padding: 10px;
-	margin: 10px 0;
-	background: #eee;
-}
 
-.portlet
-{
+
+
+
+
+
+
+/* ==========================================================================
+   Media Queries
+   ========================================================================== */
+
+@media only screen and (min-width: 35em) {
 
 }
 
-.portlet-decoration
-{
-	padding: 3px 8px;
-	background: #B7D6E7;
-	border-left: 5px solid #6FACCF;
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5),
+       only screen and (min-resolution: 144dpi) {
+
 }
 
-.portlet-title
-{
-	font-size: 12px;
-	font-weight: bold;
-	padding: 0;
-	margin: 0;
-	color: #298dcd;
+/* ==========================================================================
+   Helper classes
+   ========================================================================== */
+
+.ir {
+    background-color: transparent;
+    border: 0;
+    overflow: hidden;
+    *text-indent: -9999px;
 }
 
-.portlet-content
-{
-	font-size:0.9em;
-	margin: 0 0 15px 0;
-	padding: 5px 8px;
-	background:#EFFDFF;
+.ir:before {
+    content: "";
+    display: block;
+    width: 0;
+    height: 100%;
 }
 
-.portlet-content ul
-{
-	list-style-image:none;
-	list-style-position:outside;
-	list-style-type:none;
-	margin: 0;
-	padding: 0;
+.hidden {
+    display: none !important;
+    visibility: hidden;
 }
 
-.portlet-content li
-{
-	padding: 2px 0 4px 0px;
+.visuallyhidden {
+    border: 0;
+    clip: rect(0 0 0 0);
+    height: 1px;
+    margin: -1px;
+    overflow: hidden;
+    padding: 0;
+    position: absolute;
+    width: 1px;
 }
 
-.operations
-{
-	list-style-type: none;
-	margin: 0;
-	padding: 0;
+.visuallyhidden.focusable:active,
+.visuallyhidden.focusable:focus {
+    clip: auto;
+    height: auto;
+    margin: 0;
+    overflow: visible;
+    position: static;
+    width: auto;
 }
 
-.operations li
-{
-	padding-bottom: 2px;
+.invisible {
+    visibility: hidden;
 }
 
-.operations li a
-{
-	font: bold 12px Arial;
-	color: #0066A4;
-	display: block;
-	padding: 2px 0 2px 8px;
-	line-height: 15px;
-	text-decoration: none;
+.clearfix:before,
+.clearfix:after {
+    content: " ";
+    display: table;
 }
 
-.operations li a:visited
-{
-	color: #0066A4;
+.clearfix:after {
+    clear: both;
 }
 
-.operations li a:hover
-{
-	background: #80CFFF;
+.clearfix {
+    *zoom: 1;
+}
+
+/* ==========================================================================
+   Print styles
+   ========================================================================== */
+
+@media print {
+    * {
+        background: transparent !important;
+        color: #000 !important; /* Black prints faster: h5bp.com/s */
+        box-shadow:none !important;
+        text-shadow: none !important;
+    }
+
+    a,
+    a:visited {
+        text-decoration: underline;
+    }
+
+    a[href]:after {
+        content: " (" attr(href) ")";
+    }
+
+    abbr[title]:after {
+        content: " (" attr(title) ")";
+    }
+
+    /*
+     * Don't show links for images, or javascript/internal links
+     */
+
+    .ir a:after,
+    a[href^="javascript:"]:after,
+    a[href^="#"]:after {
+        content: "";
+    }
+
+    pre,
+    blockquote {
+        border: 1px solid #999;
+        page-break-inside: avoid;
+    }
+
+    thead {
+        display: table-header-group; /* h5bp.com/t */
+    }
+
+    tr,
+    img {
+        page-break-inside: avoid;
+    }
+
+    img {
+        max-width: 100% !important;
+    }
+
+    @page {
+        margin: 0.5cm;
+    }
+
+    p,
+    h2,
+    h3 {
+        orphans: 3;
+        widows: 3;
+    }
+
+    h2,
+    h3 {
+        page-break-after: avoid;
+    }
 }

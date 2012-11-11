@@ -1,55 +1,58 @@
-<?php /* @var $this Controller */ ?>
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<!DOCTYPE html>
+<html class="no-js">
 <head>
-	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-	<meta name="language" content="en" />
-
-	<!-- blueprint CSS framework -->
-	<link rel="stylesheet" type="text/css" href="<?php echo Yii::app()->request->baseUrl; ?>/css/screen.css" media="screen, projection" />
-	<link rel="stylesheet" type="text/css" href="<?php echo Yii::app()->request->baseUrl; ?>/css/print.css" media="print" />
-	<!--[if lt IE 8]>
-	<link rel="stylesheet" type="text/css" href="<?php echo Yii::app()->request->baseUrl; ?>/css/ie.css" media="screen, projection" />
-	<![endif]-->
-
-	<link rel="stylesheet" type="text/css" href="<?php echo Yii::app()->request->baseUrl; ?>/css/main.css" />
-	<link rel="stylesheet" type="text/css" href="<?php echo Yii::app()->request->baseUrl; ?>/css/form.css" />
-
-	<title><?php echo CHtml::encode($this->pageTitle); ?></title>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<title>МРЭО Онлайн</title>
+	<meta name="description" content="">
+	<meta name="viewport" content="width=device-width">
+	<link rel="stylesheet" href="css/normalize.min.css">
+	<link rel="stylesheet" href="css/main.css">
+	<script src="/js/vendor/modernizr-2.6.1.min.js"></script>
+	<link rel="icon" href="/favicon.ico" type="image/x-icon" />
+	<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
 </head>
-
 <body>
+<!--[if lt IE 7]>
+<p class="chromeframe">Вы используете устаревший браузер. <a href="http://browsehappy.com/">Обновите бразер сейчас</a> или <a href="http://www.google.com/chromeframe/?redirect=true">установите Google Chrome Frame</a> для лучшего отображения сайта.</p>
+<![endif]-->
 
-<div class="container" id="page">
-
-	<div id="header">
-		<div id="logo"><?php echo CHtml::encode(Yii::app()->name); ?></div>
-	</div><!-- header -->
-
-	<div id="mainmenu">
-		<?php $this->widget('zii.widgets.CMenu',array(
-			'items'=>array(
-				array('label'=>'Home', 'url'=>array('/site/index')),
-				array('label'=>'About', 'url'=>array('/site/page', 'view'=>'about')),
-				array('label'=>'Contact', 'url'=>array('/site/contact')),
-				array('label'=>'Login', 'url'=>array('/site/login'), 'visible'=>Yii::app()->user->isGuest),
-				array('label'=>'Logout ('.Yii::app()->user->name.')', 'url'=>array('/site/logout'), 'visible'=>!Yii::app()->user->isGuest)
-			),
-		)); ?>
-	</div><!-- mainmenu -->
-
+<div id="wrapper">
+	<header id="header" class="clearfix">
+		<a id="logo" href="/"><img src="/images/logo.png" width="46" height="37" alt="МРЭО Онлайн"> МРЭО Онлайн</a>
+		<nav id="menu">
+			<ul>
+				<li><a href="#">Услуги</a></li>
+				<li><a href="#">Цены</a></li>
+				<li><a href="#">FAQ</a></li>
+				<li><a href="#">Контакты</a></li>
+			</ul>
+		</nav>
+	</header>
 
 	<?php echo $content; ?>
 
-	<div class="clear"></div>
+	<div id="pre-footer" class="clearfix">
 
-	<div id="footer">
-		Copyright &copy; <?php echo date('Y'); ?> by My Company.<br/>
-		All Rights Reserved.<br/>
-		<?php echo Yii::powered(); ?>
-	</div><!-- footer -->
+		<?php if(Yii::app()->getController()->isMainPage()): ?>
+			<a id="all-services-button" href="/services" class="button green">Все услуги <img src="/images/services-arrow.png" width="11" height="23" alt=""></a>
+		<?php endif; ?>
 
-</div><!-- page -->
+		<div id="support-block">
+			Если у вас возникли вопросы по работе с сайтом звоните на номер <span id="support-phone">8 800 546-76-76</span><br>
+			Или пишите в тех-поддержку на электронную почту <a href="mailto:support@fastmreo.ru">support@fastmreo.ru</a>
+		</div>
 
+	</div>
+
+	<footer id="footer">
+		Copyright © 2012-2013 Мрэо Онлайн
+	</footer>
+</div>
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="js/vendor/jquery-1.8.2.min.js"><\/script>')</script>
+
+<script src="js/main.js"></script>
 </body>
 </html>

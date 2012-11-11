@@ -15,4 +15,12 @@ class BaseController extends CController
 		return Yii::app()->user->setFlash('error', $message);
 	}
 
+	// определение главной страницы
+	public function isMainPage() {
+		if(Yii::app()->controller->createUrl('')==='/site/index') {
+			return true;
+		}
+		return false;
+	}
+
 }

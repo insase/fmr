@@ -1,7 +1,7 @@
 <?php
 class FrontEndController extends BaseController
 {
-	public $layout = 'site';
+	public $layout = 'main';
 
 	public $menu = array();
 
