@@ -1,0 +1,469 @@
+2012/11/11 14:11:01 [error] [exception.CException] exception 'CException' with message 'CWebApplication and its behaviors do not have a method or closure named "runEnd".' in /Users/zhdanovartur/Documents/Projects/fastmreo.ru/framework/base/CComponent.php:266
+Stack trace:
+#0 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/application/index.php(19): CComponent->__call('runEnd', Array)
+#1 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/application/index.php(19): CWebApplication->runEnd('frontend')
+#2 {main}
+REQUEST_URI=/
+---
+2012/11/11 14:12:24 [error] [exception.CException] exception 'CException' with message 'CWebApplication and its behaviors do not have a method or closure named "runEnd".' in /Users/zhdanovartur/Documents/Projects/fastmreo.ru/framework/base/CComponent.php:266
+Stack trace:
+#0 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/application/index.php(19): CComponent->__call('runEnd', Array)
+#1 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/application/index.php(19): CWebApplication->runEnd('frontend')
+#2 {main}
+REQUEST_URI=/
+---
+2012/11/11 14:12:25 [error] [exception.CException] exception 'CException' with message 'CWebApplication and its behaviors do not have a method or closure named "runEnd".' in /Users/zhdanovartur/Documents/Projects/fastmreo.ru/framework/base/CComponent.php:266
+Stack trace:
+#0 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/application/index.php(19): CComponent->__call('runEnd', Array)
+#1 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/application/index.php(19): CWebApplication->runEnd('frontend')
+#2 {main}
+REQUEST_URI=/
+---
+2012/11/11 14:12:25 [error] [exception.CException] exception 'CException' with message 'CWebApplication and its behaviors do not have a method or closure named "runEnd".' in /Users/zhdanovartur/Documents/Projects/fastmreo.ru/framework/base/CComponent.php:266
+Stack trace:
+#0 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/application/index.php(19): CComponent->__call('runEnd', Array)
+#1 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/application/index.php(19): CWebApplication->runEnd('frontend')
+#2 {main}
+REQUEST_URI=/
+---
+2012/11/11 14:12:25 [error] [exception.CException] exception 'CException' with message 'CWebApplication and its behaviors do not have a method or closure named "runEnd".' in /Users/zhdanovartur/Documents/Projects/fastmreo.ru/framework/base/CComponent.php:266
+Stack trace:
+#0 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/application/index.php(19): CComponent->__call('runEnd', Array)
+#1 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/application/index.php(19): CWebApplication->runEnd('frontend')
+#2 {main}
+REQUEST_URI=/
+---
+2012/11/11 14:12:31 [error] [exception.CException] exception 'CException' with message 'CWebApplication and its behaviors do not have a method or closure named "runEnd".' in /Users/zhdanovartur/Documents/Projects/fastmreo.ru/framework/base/CComponent.php:266
+Stack trace:
+#0 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/application/index.php(19): CComponent->__call('runEnd', Array)
+#1 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/application/index.php(19): CWebApplication->runEnd('frontend')
+#2 {main}
+REQUEST_URI=/
+---
+2012/11/11 14:13:22 [error] [exception.CException] exception 'CException' with message 'CWebApplication and its behaviors do not have a method or closure named "runEnd".' in /Users/zhdanovartur/Documents/Projects/fastmreo.ru/framework/base/CComponent.php:266
+Stack trace:
+#0 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/application/index.php(19): CComponent->__call('runEnd', Array)
+#1 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/application/index.php(19): CWebApplication->runEnd('frontend')
+#2 {main}
+REQUEST_URI=/
+---
+2012/11/11 14:13:22 [error] [exception.CException] exception 'CException' with message 'CWebApplication and its behaviors do not have a method or closure named "runEnd".' in /Users/zhdanovartur/Documents/Projects/fastmreo.ru/framework/base/CComponent.php:266
+Stack trace:
+#0 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/application/index.php(19): CComponent->__call('runEnd', Array)
+#1 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/application/index.php(19): CWebApplication->runEnd('frontend')
+#2 {main}
+REQUEST_URI=/
+---
+2012/11/11 14:13:39 [error] [exception.CException] exception 'CException' with message 'CWebApplication and its behaviors do not have a method or closure named "runEnd".' in /Users/zhdanovartur/Documents/Projects/fastmreo.ru/framework/base/CComponent.php:266
+Stack trace:
+#0 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/application/index.php(19): CComponent->__call('runEnd', Array)
+#1 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/application/index.php(19): CWebApplication->runEnd('frontend')
+#2 {main}
+REQUEST_URI=/
+---
+2012/11/11 14:13:59 [error] [exception.CException] exception 'CException' with message 'CWebApplication and its behaviors do not have a method or closure named "runEnd".' in /Users/zhdanovartur/Documents/Projects/fastmreo.ru/framework/base/CComponent.php:266
+Stack trace:
+#0 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/application/index.php(19): CComponent->__call('runEnd', Array)
+#1 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/application/index.php(19): CWebApplication->runEnd('frontend')
+#2 {main}
+REQUEST_URI=/
+---
+2012/11/11 14:14:32 [error] [exception.CException] exception 'CException' with message 'CWebApplication and its behaviors do not have a method or closure named "runEnd".' in /Users/zhdanovartur/Documents/Projects/fastmreo.ru/framework/base/CComponent.php:266
+Stack trace:
+#0 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/application/index.php(19): CComponent->__call('runEnd', Array)
+#1 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/application/index.php(19): CWebApplication->runEnd('frontend')
+#2 {main}
+REQUEST_URI=/
+---
+2012/11/11 14:14:32 [error] [exception.CException] exception 'CException' with message 'CWebApplication and its behaviors do not have a method or closure named "runEnd".' in /Users/zhdanovartur/Documents/Projects/fastmreo.ru/framework/base/CComponent.php:266
+Stack trace:
+#0 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/application/index.php(19): CComponent->__call('runEnd', Array)
+#1 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/application/index.php(19): CWebApplication->runEnd('frontend')
+#2 {main}
+REQUEST_URI=/
+---
+2012/11/11 14:14:32 [error] [exception.CException] exception 'CException' with message 'CWebApplication and its behaviors do not have a method or closure named "runEnd".' in /Users/zhdanovartur/Documents/Projects/fastmreo.ru/framework/base/CComponent.php:266
+Stack trace:
+#0 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/application/index.php(19): CComponent->__call('runEnd', Array)
+#1 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/application/index.php(19): CWebApplication->runEnd('frontend')
+#2 {main}
+REQUEST_URI=/
+---
+2012/11/11 14:14:33 [error] [exception.CException] exception 'CException' with message 'CWebApplication and its behaviors do not have a method or closure named "runEnd".' in /Users/zhdanovartur/Documents/Projects/fastmreo.ru/framework/base/CComponent.php:266
+Stack trace:
+#0 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/application/index.php(19): CComponent->__call('runEnd', Array)
+#1 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/application/index.php(19): CWebApplication->runEnd('frontend')
+#2 {main}
+REQUEST_URI=/
+---
+2012/11/11 14:15:31 [error] [exception.CException] exception 'CException' with message 'CWebApplication and its behaviors do not have a method or closure named "runEnd".' in /Users/zhdanovartur/Documents/Projects/fastmreo.ru/framework/base/CComponent.php:266
+Stack trace:
+#0 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/application/index.php(19): CComponent->__call('runEnd', Array)
+#1 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/application/index.php(19): CWebApplication->runEnd('frontend')
+#2 {main}
+REQUEST_URI=/
+---
+2012/11/11 14:15:31 [error] [exception.CException] exception 'CException' with message 'CWebApplication and its behaviors do not have a method or closure named "runEnd".' in /Users/zhdanovartur/Documents/Projects/fastmreo.ru/framework/base/CComponent.php:266
+Stack trace:
+#0 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/application/index.php(19): CComponent->__call('runEnd', Array)
+#1 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/application/index.php(19): CWebApplication->runEnd('frontend')
+#2 {main}
+REQUEST_URI=/
+---
+2012/11/11 14:15:31 [error] [exception.CException] exception 'CException' with message 'CWebApplication and its behaviors do not have a method or closure named "runEnd".' in /Users/zhdanovartur/Documents/Projects/fastmreo.ru/framework/base/CComponent.php:266
+Stack trace:
+#0 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/application/index.php(19): CComponent->__call('runEnd', Array)
+#1 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/application/index.php(19): CWebApplication->runEnd('frontend')
+#2 {main}
+REQUEST_URI=/
+---
+2012/11/11 14:15:32 [error] [exception.CException] exception 'CException' with message 'CWebApplication and its behaviors do not have a method or closure named "runEnd".' in /Users/zhdanovartur/Documents/Projects/fastmreo.ru/framework/base/CComponent.php:266
+Stack trace:
+#0 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/application/index.php(19): CComponent->__call('runEnd', Array)
+#1 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/application/index.php(19): CWebApplication->runEnd('frontend')
+#2 {main}
+REQUEST_URI=/
+---
+2012/11/11 14:15:32 [error] [exception.CException] exception 'CException' with message 'CWebApplication and its behaviors do not have a method or closure named "runEnd".' in /Users/zhdanovartur/Documents/Projects/fastmreo.ru/framework/base/CComponent.php:266
+Stack trace:
+#0 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/application/index.php(19): CComponent->__call('runEnd', Array)
+#1 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/application/index.php(19): CWebApplication->runEnd('frontend')
+#2 {main}
+REQUEST_URI=/
+---
+2012/11/11 14:17:44 [error] [exception.CException] exception 'CException' with message 'CWebApplication and its behaviors do not have a method or closure named "runEnd".' in /Users/zhdanovartur/Documents/Projects/fastmreo.ru/framework/base/CComponent.php:266
+Stack trace:
+#0 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/application/index.php(19): CComponent->__call('runEnd', Array)
+#1 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/application/index.php(19): CWebApplication->runEnd('frontend')
+#2 {main}
+REQUEST_URI=/
+---
+2012/11/11 14:17:44 [error] [exception.CException] exception 'CException' with message 'CWebApplication and its behaviors do not have a method or closure named "runEnd".' in /Users/zhdanovartur/Documents/Projects/fastmreo.ru/framework/base/CComponent.php:266
+Stack trace:
+#0 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/application/index.php(19): CComponent->__call('runEnd', Array)
+#1 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/application/index.php(19): CWebApplication->runEnd('frontend')
+#2 {main}
+REQUEST_URI=/
+---
+2012/11/11 14:17:44 [error] [exception.CException] exception 'CException' with message 'CWebApplication and its behaviors do not have a method or closure named "runEnd".' in /Users/zhdanovartur/Documents/Projects/fastmreo.ru/framework/base/CComponent.php:266
+Stack trace:
+#0 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/application/index.php(19): CComponent->__call('runEnd', Array)
+#1 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/application/index.php(19): CWebApplication->runEnd('frontend')
+#2 {main}
+REQUEST_URI=/
+---
+2012/11/11 14:18:11 [error] [exception.CException] exception 'CException' with message 'CWebApplication and its behaviors do not have a method or closure named "runEnd".' in /Users/zhdanovartur/Documents/Projects/fastmreo.ru/framework/base/CComponent.php:266
+Stack trace:
+#0 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/application/index.php(19): CComponent->__call('runEnd', Array)
+#1 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/application/index.php(19): CWebApplication->runEnd('frontend')
+#2 {main}
+REQUEST_URI=/
+---
+2012/11/11 14:18:11 [error] [exception.CException] exception 'CException' with message 'CWebApplication and its behaviors do not have a method or closure named "runEnd".' in /Users/zhdanovartur/Documents/Projects/fastmreo.ru/framework/base/CComponent.php:266
+Stack trace:
+#0 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/application/index.php(19): CComponent->__call('runEnd', Array)
+#1 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/application/index.php(19): CWebApplication->runEnd('frontend')
+#2 {main}
+REQUEST_URI=/
+---
+2012/11/11 14:19:36 [error] [exception.CException] exception 'CException' with message 'The view path "/Users/zhdanovartur/Documents/Projects/fastmreo.ru/application/protected/views/frontend" is not a valid directory.' in /Users/zhdanovartur/Documents/Projects/fastmreo.ru/framework/web/CWebApplication.php:445
+Stack trace:
+#0 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/framework/base/CComponent.php(153): CWebApplication->setViewPath('/Users/zhdanova...')
+#1 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/application/protected/behaviors/WebApplicationEndBehavior.php(31): CComponent->__set('viewPath', '/Users/zhdanova...')
+#2 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/framework/base/CComponent.php(559): WebApplicationEndBehavior->changeModulePaths(Object(CEvent))
+#3 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/application/protected/behaviors/WebApplicationEndBehavior.php(25): CComponent->raiseEvent('onModuleCreate', Object(CEvent))
+#4 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/application/protected/behaviors/WebApplicationEndBehavior.php(18): WebApplicationEndBehavior->onModuleCreate(Object(CEvent))
+#5 [internal function]: WebApplicationEndBehavior->runEnd('frontend')
+#6 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#7 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/application/index.php(19): CComponent->__call('runEnd', Array)
+#8 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/application/index.php(19): CWebApplication->runEnd('frontend')
+#9 {main}
+REQUEST_URI=/
+---
+2012/11/11 14:20:23 [error] [php] include(Controller.php): failed to open stream: No such file or directory (/Users/zhdanovartur/Documents/Projects/fastmreo.ru/framework/YiiBase.php:423)
+Stack trace:
+#0 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/application/protected/controllers/frontend/SiteController.php(4): spl_autoload_call()
+#1 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/framework/web/CWebApplication.php(355): require()
+#2 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/framework/web/CWebApplication.php(277): CWebApplication->createController()
+#3 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/framework/web/CWebApplication.php(142): CWebApplication->runController()
+#4 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#5 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/application/protected/behaviors/WebApplicationEndBehavior.php(20): CWebApplication->run()
+#6 unknown(0): WebApplicationEndBehavior->runEnd()
+#7 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/framework/base/CComponent.php(261): call_user_func_array()
+#8 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/application/index.php(19): CWebApplication->__call()
+#9 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/application/index.php(19): CWebApplication->runEnd()
+REQUEST_URI=/
+in /Users/zhdanovartur/Documents/Projects/fastmreo.ru/application/protected/controllers/frontend/SiteController.php (4)
+in /Users/zhdanovartur/Documents/Projects/fastmreo.ru/application/protected/behaviors/WebApplicationEndBehavior.php (20)
+in /Users/zhdanovartur/Documents/Projects/fastmreo.ru/application/index.php (19)
+2012/11/11 14:20:23 [error] [php] include(Controller.php): failed to open stream: No such file or directory (/Users/zhdanovartur/Documents/Projects/fastmreo.ru/framework/YiiBase.php:423)
+Stack trace:
+#0 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/application/protected/controllers/frontend/SiteController.php(4): spl_autoload_call()
+#1 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/framework/web/CWebApplication.php(355): require()
+#2 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/framework/web/CWebApplication.php(277): CWebApplication->createController()
+#3 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/framework/web/CWebApplication.php(142): CWebApplication->runController()
+#4 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#5 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/application/protected/behaviors/WebApplicationEndBehavior.php(20): CWebApplication->run()
+#6 unknown(0): WebApplicationEndBehavior->runEnd()
+#7 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/framework/base/CComponent.php(261): call_user_func_array()
+#8 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/application/index.php(19): CWebApplication->__call()
+#9 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/application/index.php(19): CWebApplication->runEnd()
+REQUEST_URI=/
+in /Users/zhdanovartur/Documents/Projects/fastmreo.ru/application/protected/controllers/frontend/SiteController.php (4)
+in /Users/zhdanovartur/Documents/Projects/fastmreo.ru/application/protected/behaviors/WebApplicationEndBehavior.php (20)
+in /Users/zhdanovartur/Documents/Projects/fastmreo.ru/application/index.php (19)
+2012/11/11 14:20:24 [error] [php] include(Controller.php): failed to open stream: No such file or directory (/Users/zhdanovartur/Documents/Projects/fastmreo.ru/framework/YiiBase.php:423)
+Stack trace:
+#0 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/application/protected/controllers/frontend/SiteController.php(4): spl_autoload_call()
+#1 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/framework/web/CWebApplication.php(355): require()
+#2 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/framework/web/CWebApplication.php(277): CWebApplication->createController()
+#3 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/framework/web/CWebApplication.php(142): CWebApplication->runController()
+#4 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#5 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/application/protected/behaviors/WebApplicationEndBehavior.php(20): CWebApplication->run()
+#6 unknown(0): WebApplicationEndBehavior->runEnd()
+#7 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/framework/base/CComponent.php(261): call_user_func_array()
+#8 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/application/index.php(19): CWebApplication->__call()
+#9 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/application/index.php(19): CWebApplication->runEnd()
+REQUEST_URI=/
+in /Users/zhdanovartur/Documents/Projects/fastmreo.ru/application/protected/controllers/frontend/SiteController.php (4)
+in /Users/zhdanovartur/Documents/Projects/fastmreo.ru/application/protected/behaviors/WebApplicationEndBehavior.php (20)
+in /Users/zhdanovartur/Documents/Projects/fastmreo.ru/application/index.php (19)
+2012/11/11 14:20:24 [error] [php] include(Controller.php): failed to open stream: No such file or directory (/Users/zhdanovartur/Documents/Projects/fastmreo.ru/framework/YiiBase.php:423)
+Stack trace:
+#0 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/application/protected/controllers/frontend/SiteController.php(4): spl_autoload_call()
+#1 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/framework/web/CWebApplication.php(355): require()
+#2 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/framework/web/CWebApplication.php(277): CWebApplication->createController()
+#3 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/framework/web/CWebApplication.php(142): CWebApplication->runController()
+#4 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#5 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/application/protected/behaviors/WebApplicationEndBehavior.php(20): CWebApplication->run()
+#6 unknown(0): WebApplicationEndBehavior->runEnd()
+#7 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/framework/base/CComponent.php(261): call_user_func_array()
+#8 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/application/index.php(19): CWebApplication->__call()
+#9 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/application/index.php(19): CWebApplication->runEnd()
+REQUEST_URI=/
+in /Users/zhdanovartur/Documents/Projects/fastmreo.ru/application/protected/controllers/frontend/SiteController.php (4)
+in /Users/zhdanovartur/Documents/Projects/fastmreo.ru/application/protected/behaviors/WebApplicationEndBehavior.php (20)
+in /Users/zhdanovartur/Documents/Projects/fastmreo.ru/application/index.php (19)
+2012/11/11 14:20:48 [error] [exception.CException] exception 'CException' with message 'Alias "ext.minScript.components.ExtMinScript" is invalid. Make sure it points to an existing PHP file and the file is readable.' in /Users/zhdanovartur/Documents/Projects/fastmreo.ru/framework/YiiBase.php:318
+Stack trace:
+#0 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/framework/YiiBase.php(198): YiiBase::import('ext.minScript.c...', true)
+#1 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/framework/base/CModule.php(387): YiiBase::createComponent(Array)
+#2 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/framework/web/CWebApplication.php(231): CModule->getComponent('clientScript')
+#3 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/framework/web/CController.php(352): CWebApplication->getClientScript()
+#4 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/framework/web/CController.php(789): CController->processOutput('<!DOCTYPE html ...')
+#5 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/application/protected/controllers/frontend/SiteController.php(32): CController->render('index')
+#6 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/framework/web/actions/CInlineAction.php(50): SiteController->actionIndex()
+#7 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/framework/web/CController.php(309): CInlineAction->runWithParams(Array)
+#8 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/framework/web/CController.php(287): CController->runAction(Object(CInlineAction))
+#9 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/framework/web/CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#10 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/framework/web/CWebApplication.php(283): CController->run('')
+#11 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/framework/web/CWebApplication.php(142): CWebApplication->runController('')
+#12 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#13 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/application/protected/behaviors/WebApplicationEndBehavior.php(20): CApplication->run()
+#14 [internal function]: WebApplicationEndBehavior->runEnd('frontend')
+#15 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#16 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/application/index.php(19): CComponent->__call('runEnd', Array)
+#17 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/application/index.php(19): CWebApplication->runEnd('frontend')
+#18 {main}
+REQUEST_URI=/
+---
+2012/11/11 14:26:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Доступ запрещен' in /Users/zhdanovartur/Documents/Projects/fastmreo.ru/application/protected/components/BackEndController.php:23
+Stack trace:
+#0 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/framework/web/CWebApplication.php(282): BackEndController->init()
+#1 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/framework/web/CWebApplication.php(142): CWebApplication->runController('site/index')
+#2 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#3 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/application/protected/behaviors/WebApplicationEndBehavior.php(20): CApplication->run()
+#4 [internal function]: WebApplicationEndBehavior->runEnd('backend')
+#5 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#6 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/application/backend.php(13): CComponent->__call('runEnd', Array)
+#7 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/application/backend.php(13): CWebApplication->runEnd('backend')
+#8 {main}
+REQUEST_URI=/backend
+---
+2012/11/11 14:27:23 [error] [exception.CException] exception 'CException' with message 'Property "SiteController.breadcrumbs" is not defined.' in /Users/zhdanovartur/Documents/Projects/fastmreo.ru/framework/base/CComponent.php:174
+Stack trace:
+#0 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/application/protected/views/frontend/site/login.php(7): CComponent->__set('breadcrumbs', Array)
+#1 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/framework/web/CBaseController.php(127): require('/Users/zhdanova...')
+#2 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/framework/web/CBaseController.php(96): CBaseController->renderInternal('/Users/zhdanova...', Array, true)
+#3 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/framework/web/CController.php(870): CBaseController->renderFile('/Users/zhdanova...', Array, true)
+#4 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/framework/web/CController.php(783): CController->renderPartial('login', Array, true)
+#5 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/application/protected/controllers/frontend/SiteController.php(98): CController->render('login', Array)
+#6 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/framework/web/actions/CInlineAction.php(50): SiteController->actionLogin()
+#7 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/framework/web/CController.php(309): CInlineAction->runWithParams(Array)
+#8 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/framework/web/CController.php(287): CController->runAction(Object(CInlineAction))
+#9 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/framework/web/CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#10 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/framework/web/CWebApplication.php(283): CController->run('login')
+#11 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/framework/web/CWebApplication.php(142): CWebApplication->runController('site/login')
+#12 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#13 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/application/protected/behaviors/WebApplicationEndBehavior.php(20): CApplication->run()
+#14 [internal function]: WebApplicationEndBehavior->runEnd('frontend')
+#15 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#16 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/application/index.php(19): CComponent->__call('runEnd', Array)
+#17 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/application/index.php(19): CWebApplication->runEnd('frontend')
+#18 {main}
+REQUEST_URI=/site/login
+HTTP_REFERER=http://fastmreo.ru/
+---
+2012/11/11 14:29:03 [error] [exception.CException] exception 'CException' with message 'Property "SiteController.breadcrumbs" is not defined.' in /Users/zhdanovartur/Documents/Projects/fastmreo.ru/framework/base/CComponent.php:174
+Stack trace:
+#0 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/application/protected/views/frontend/site/login.php(7): CComponent->__set('breadcrumbs', Array)
+#1 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/framework/web/CBaseController.php(127): require('/Users/zhdanova...')
+#2 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/framework/web/CBaseController.php(96): CBaseController->renderInternal('/Users/zhdanova...', Array, true)
+#3 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/framework/web/CController.php(870): CBaseController->renderFile('/Users/zhdanova...', Array, true)
+#4 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/framework/web/CController.php(783): CController->renderPartial('login', Array, true)
+#5 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/application/protected/controllers/frontend/SiteController.php(98): CController->render('login', Array)
+#6 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/framework/web/actions/CInlineAction.php(50): SiteController->actionLogin()
+#7 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/framework/web/CController.php(309): CInlineAction->runWithParams(Array)
+#8 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/framework/web/CController.php(287): CController->runAction(Object(CInlineAction))
+#9 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/framework/web/CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#10 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/framework/web/CWebApplication.php(283): CController->run('login')
+#11 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/framework/web/CWebApplication.php(142): CWebApplication->runController('site/login')
+#12 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#13 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/application/protected/behaviors/WebApplicationEndBehavior.php(20): CApplication->run()
+#14 [internal function]: WebApplicationEndBehavior->runEnd('frontend')
+#15 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#16 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/application/index.php(19): CComponent->__call('runEnd', Array)
+#17 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/application/index.php(19): CWebApplication->runEnd('frontend')
+#18 {main}
+REQUEST_URI=/site/login
+HTTP_REFERER=http://fastmreo.ru/
+---
+2012/11/11 14:29:05 [error] [exception.CException] exception 'CException' with message 'Property "SiteController.breadcrumbs" is not defined.' in /Users/zhdanovartur/Documents/Projects/fastmreo.ru/framework/base/CComponent.php:174
+Stack trace:
+#0 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/application/protected/views/frontend/site/login.php(7): CComponent->__set('breadcrumbs', Array)
+#1 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/framework/web/CBaseController.php(127): require('/Users/zhdanova...')
+#2 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/framework/web/CBaseController.php(96): CBaseController->renderInternal('/Users/zhdanova...', Array, true)
+#3 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/framework/web/CController.php(870): CBaseController->renderFile('/Users/zhdanova...', Array, true)
+#4 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/framework/web/CController.php(783): CController->renderPartial('login', Array, true)
+#5 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/application/protected/controllers/frontend/SiteController.php(98): CController->render('login', Array)
+#6 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/framework/web/actions/CInlineAction.php(50): SiteController->actionLogin()
+#7 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/framework/web/CController.php(309): CInlineAction->runWithParams(Array)
+#8 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/framework/web/CController.php(287): CController->runAction(Object(CInlineAction))
+#9 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/framework/web/CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#10 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/framework/web/CWebApplication.php(283): CController->run('login')
+#11 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/framework/web/CWebApplication.php(142): CWebApplication->runController('site/login')
+#12 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#13 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/application/protected/behaviors/WebApplicationEndBehavior.php(20): CApplication->run()
+#14 [internal function]: WebApplicationEndBehavior->runEnd('frontend')
+#15 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#16 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/application/index.php(19): CComponent->__call('runEnd', Array)
+#17 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/application/index.php(19): CWebApplication->runEnd('frontend')
+#18 {main}
+REQUEST_URI=/site/login
+HTTP_REFERER=http://fastmreo.ru/
+---
+2012/11/11 14:29:05 [error] [exception.CException] exception 'CException' with message 'Property "SiteController.breadcrumbs" is not defined.' in /Users/zhdanovartur/Documents/Projects/fastmreo.ru/framework/base/CComponent.php:174
+Stack trace:
+#0 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/application/protected/views/frontend/site/login.php(7): CComponent->__set('breadcrumbs', Array)
+#1 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/framework/web/CBaseController.php(127): require('/Users/zhdanova...')
+#2 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/framework/web/CBaseController.php(96): CBaseController->renderInternal('/Users/zhdanova...', Array, true)
+#3 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/framework/web/CController.php(870): CBaseController->renderFile('/Users/zhdanova...', Array, true)
+#4 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/framework/web/CController.php(783): CController->renderPartial('login', Array, true)
+#5 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/application/protected/controllers/frontend/SiteController.php(98): CController->render('login', Array)
+#6 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/framework/web/actions/CInlineAction.php(50): SiteController->actionLogin()
+#7 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/framework/web/CController.php(309): CInlineAction->runWithParams(Array)
+#8 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/framework/web/CController.php(287): CController->runAction(Object(CInlineAction))
+#9 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/framework/web/CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#10 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/framework/web/CWebApplication.php(283): CController->run('login')
+#11 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/framework/web/CWebApplication.php(142): CWebApplication->runController('site/login')
+#12 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#13 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/application/protected/behaviors/WebApplicationEndBehavior.php(20): CApplication->run()
+#14 [internal function]: WebApplicationEndBehavior->runEnd('frontend')
+#15 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#16 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/application/index.php(19): CComponent->__call('runEnd', Array)
+#17 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/application/index.php(19): CWebApplication->runEnd('frontend')
+#18 {main}
+REQUEST_URI=/site/login
+HTTP_REFERER=http://fastmreo.ru/
+---
+2012/11/11 14:29:42 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Доступ запрещен' in /Users/zhdanovartur/Documents/Projects/fastmreo.ru/application/protected/components/BackEndController.php:23
+Stack trace:
+#0 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/framework/web/CWebApplication.php(282): BackEndController->init()
+#1 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/framework/web/CWebApplication.php(142): CWebApplication->runController('site/index')
+#2 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#3 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/application/protected/behaviors/WebApplicationEndBehavior.php(20): CApplication->run()
+#4 [internal function]: WebApplicationEndBehavior->runEnd('backend')
+#5 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#6 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/application/backend.php(13): CComponent->__call('runEnd', Array)
+#7 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/application/backend.php(13): CWebApplication->runEnd('backend')
+#8 {main}
+REQUEST_URI=/backend
+---
+2012/11/11 14:29:43 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Доступ запрещен' in /Users/zhdanovartur/Documents/Projects/fastmreo.ru/application/protected/components/BackEndController.php:23
+Stack trace:
+#0 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/framework/web/CWebApplication.php(282): BackEndController->init()
+#1 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/framework/web/CWebApplication.php(142): CWebApplication->runController('site/index')
+#2 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#3 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/application/protected/behaviors/WebApplicationEndBehavior.php(20): CApplication->run()
+#4 [internal function]: WebApplicationEndBehavior->runEnd('backend')
+#5 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#6 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/application/backend.php(13): CComponent->__call('runEnd', Array)
+#7 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/application/backend.php(13): CWebApplication->runEnd('backend')
+#8 {main}
+REQUEST_URI=/backend
+---
+2012/11/11 14:29:43 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Доступ запрещен' in /Users/zhdanovartur/Documents/Projects/fastmreo.ru/application/protected/components/BackEndController.php:23
+Stack trace:
+#0 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/framework/web/CWebApplication.php(282): BackEndController->init()
+#1 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/framework/web/CWebApplication.php(142): CWebApplication->runController('site/index')
+#2 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#3 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/application/protected/behaviors/WebApplicationEndBehavior.php(20): CApplication->run()
+#4 [internal function]: WebApplicationEndBehavior->runEnd('backend')
+#5 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#6 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/application/backend.php(13): CComponent->__call('runEnd', Array)
+#7 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/application/backend.php(13): CWebApplication->runEnd('backend')
+#8 {main}
+REQUEST_URI=/backend
+---
+2012/11/11 14:30:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Доступ запрещен' in /Users/zhdanovartur/Documents/Projects/fastmreo.ru/application/protected/components/BackEndController.php:23
+Stack trace:
+#0 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/framework/web/CWebApplication.php(282): BackEndController->init()
+#1 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/framework/web/CWebApplication.php(142): CWebApplication->runController('site/index')
+#2 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#3 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/application/protected/behaviors/WebApplicationEndBehavior.php(20): CApplication->run()
+#4 [internal function]: WebApplicationEndBehavior->runEnd('backend')
+#5 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#6 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/application/backend.php(13): CComponent->__call('runEnd', Array)
+#7 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/application/backend.php(13): CWebApplication->runEnd('backend')
+#8 {main}
+REQUEST_URI=/backend
+---
+2012/11/11 14:30:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Доступ запрещен' in /Users/zhdanovartur/Documents/Projects/fastmreo.ru/application/protected/components/BackEndController.php:23
+Stack trace:
+#0 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/framework/web/CWebApplication.php(282): BackEndController->init()
+#1 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/framework/web/CWebApplication.php(142): CWebApplication->runController('site/index')
+#2 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#3 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/application/protected/behaviors/WebApplicationEndBehavior.php(20): CApplication->run()
+#4 [internal function]: WebApplicationEndBehavior->runEnd('backend')
+#5 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#6 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/application/backend.php(13): CComponent->__call('runEnd', Array)
+#7 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/application/backend.php(13): CWebApplication->runEnd('backend')
+#8 {main}
+REQUEST_URI=/backend
+---
+2012/11/11 14:30:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Доступ запрещен' in /Users/zhdanovartur/Documents/Projects/fastmreo.ru/application/protected/components/BackEndController.php:23
+Stack trace:
+#0 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/framework/web/CWebApplication.php(282): BackEndController->init()
+#1 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/framework/web/CWebApplication.php(142): CWebApplication->runController('site/index')
+#2 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#3 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/application/protected/behaviors/WebApplicationEndBehavior.php(20): CApplication->run()
+#4 [internal function]: WebApplicationEndBehavior->runEnd('backend')
+#5 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#6 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/application/backend.php(13): CComponent->__call('runEnd', Array)
+#7 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/application/backend.php(13): CWebApplication->runEnd('backend')
+#8 {main}
+REQUEST_URI=/backend
+---
+2012/11/11 14:30:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Доступ запрещен' in /Users/zhdanovartur/Documents/Projects/fastmreo.ru/application/protected/components/BackEndController.php:23
+Stack trace:
+#0 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/framework/web/CWebApplication.php(282): BackEndController->init()
+#1 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/framework/web/CWebApplication.php(142): CWebApplication->runController('site/index')
+#2 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#3 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/application/protected/behaviors/WebApplicationEndBehavior.php(20): CApplication->run()
+#4 [internal function]: WebApplicationEndBehavior->runEnd('backend')
+#5 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#6 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/application/backend.php(13): CComponent->__call('runEnd', Array)
+#7 /Users/zhdanovartur/Documents/Projects/fastmreo.ru/application/backend.php(13): CWebApplication->runEnd('backend')
+#8 {main}
+REQUEST_URI=/backend
+---
