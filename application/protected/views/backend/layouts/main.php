@@ -55,7 +55,7 @@
 	<![endif]-->
 
 	<!-- Le fav and touch icons -->
-	<link rel="shortcut icon" href="http://leafeed.com/favicon.ico" />
+	<link rel="shortcut icon" href="/favicon.ico" />
 
 	<script type="text/javascript">
 		//adding load class to body and hide page
@@ -146,32 +146,12 @@
 				<?php $this->widget('zii.widgets.CMenu',array(
 					'encodeLabel'=>false,
 					'items'=>array(
-						array('label'=>'<span class="icon16 icomoon-icon-users"></span>Пользователи', 'url'=>array('/user/index')),
+						array('label'=>'<span class="icon16 icomoon-icon-users"></span>Услуги', 'url'=>array('/services/index')),
 						array('label'=>'<span class="icon16 icomoon-icon-library"></span>Библиотека', 'url'=>array('/library/index')),
 					),
 				)); ?>
 			</div>
 		</div><!-- End sidenav -->
-
-		<div class="sidebar-widget">
-			<?//Подсчет дискового пространства?>
-			<?$total = disk_total_space("./")/1024/1024/1024?>
-			<?$free = disk_free_space("./")/1024/1024/1024?>
-			<?$busy = $total - $free?>
-			<?$busy_percent = round($busy*100/$total)?>
-
-
-			<h5 class="title">Дисковое пространство</h5>
-			<div class="content">
-				<span class="icon16 icomoon-icon-drive left"></span>
-				<div class="progress progress-mini progress-success left tip" title="<?=$busy_percent?>%">
-					<div class="bar" style="width: <?=$busy_percent?>%;"></div>
-				</div>
-				<span class="percent"><?=$busy_percent?>%</span>
-				<div class="stat"><?=round($busy, 2)?> / <?=round($total, 2)?> GB</div>
-			</div>
-
-		</div><!-- End .sidenav-widget -->
 
 		<div class="sidebar-widget">
 			<h5 class="title">На данный момент</h5>
@@ -224,7 +204,7 @@
 				<ul class="messages">
 					<li class="user clearfix">
 						<a href="#" class="avatar">
-							<img src="images/avatar2.jpeg" alt="" />
+							<img src="" alt="" />
 						</a>
 						<div class="message">
 							<div class="head clearfix">
@@ -238,7 +218,7 @@
 					</li>
 					<li class="admin clearfix">
 						<a href="#" class="avatar">
-							<img src="images/avatar3.jpeg" alt="" />
+							<img src="" alt="" />
 						</a>
 						<div class="message">
 							<div class="head clearfix">
@@ -276,7 +256,7 @@
 
 <!-- Le javascript
 ================================================== -->
-<!--script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script-->
+<script type="text/javascript" src="/js/vendor/jquery-1.8.2.min.js"></script>
 <script type="text/javascript" src="/admin/js/bootstrap/bootstrap.js"></script>
 <script type="text/javascript" src="/admin/js/jquery.cookie.js"></script>
 <script type="text/javascript" src="/admin/js/jquery.mousewheel.js"></script>

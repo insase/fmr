@@ -7,7 +7,7 @@ class UserController extends BackEndController
 
 	public function actionIndex()
 	{
-		$dataProvider=new CActiveDataProvider('User', array(
+		$dataProvider=new CActiveDataProvider('Service', array(
 			'pagination'=>array(
 				'pageSize'=>50,
 			),

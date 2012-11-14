@@ -1,0 +1,12 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Zhdanov Artur -- Programmer -- http://vk.com/id104494364
+    Maryana Maltceva -- Designer -- http://vk.com/id162709
+
+# TECHNOLOGY COLOPHON
+
+    HTML5, CSS3
+    jQuery, Modernizr

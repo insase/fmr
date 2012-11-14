@@ -6,8 +6,8 @@
 	<title>МРЭО Онлайн</title>
 	<meta name="description" content="">
 	<meta name="viewport" content="width=device-width">
-	<link rel="stylesheet" href="css/normalize.min.css">
-	<link rel="stylesheet" href="css/main.css">
+	<link rel="stylesheet" href="/css/normalize.min.css">
+	<link rel="stylesheet" href="/css/main.css">
 	<script src="/js/vendor/modernizr-2.6.1.min.js"></script>
 	<link rel="icon" href="/favicon.ico" type="image/x-icon" />
 	<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
@@ -21,12 +21,13 @@
 	<header id="header" class="clearfix">
 		<a id="logo" href="/"><img src="/images/logo.png" width="46" height="37" alt="МРЭО Онлайн"> МРЭО Онлайн</a>
 		<nav id="menu">
-			<ul>
-				<li><a href="#">Услуги</a></li>
-				<li><a href="#">Цены</a></li>
-				<li><a href="#">FAQ</a></li>
-				<li><a href="#">Контакты</a></li>
-			</ul>
+			<?php $this->widget('zii.widgets.CMenu',array(
+			'items'=>array(
+				array('label'=>'Услуги и цены', 'url'=>array('/services'), 'active'=>(Yii::app()->controller->createUrl('')==='/services/index')),
+				array('label'=>'FAQ', 'url'=>array('/faq'), 'active'=>(Yii::app()->controller->createUrl('')==='/site/faq')),
+				array('label'=>'Контакты', 'url'=>array('/contacts'), 'active'=>(Yii::app()->controller->createUrl('')==='/site/contacts'))
+			)
+			));?>
 		</nav>
 	</header>
 
@@ -50,7 +51,7 @@
 	</footer>
 </div>
 
-<script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
+<!--script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script-->
 <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.8.2.min.js"><\/script>')</script>
 
 <script src="js/main.js"></script>
